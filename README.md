@@ -11,24 +11,18 @@
 ## 👨🏻‍💻 우아한 코더
 
 -   팀원 :
-    -   **김성제** <[tjdwp0211](https://github.com/tjdwp0211)>
+    -   **최규철** <[tjdwp0211](https://github.com/tjdwp0211)>
         -   블로그 : https://blog.naver.com/rlatjdwp0211
-    -   **송현경** <[cheuniss](http://github.com/cheuniss)>
+    -   **김현수** <[cheuniss](http://github.com/cheuniss)>
         -   블로그 : http://songteddybear.tistory.com
-    -   **이수형** <[SuBroooo](http://github.com/SuBroooo)>
+    -   **김주하** <[SuBroooo](http://github.com/SuBroooo)>
         -   블로그 : https://blog.naver.com/clark9810
-    -   **백승범** <[SeungBum123](https://github.com/SeungBum123)>
+    -   **홍유진** <[SeungBum123](https://github.com/SeungBum123)>
         -   블로그 : https://blog.naver.com/wer06099
-    -   **이하람** <[HalamLee](https://github.com/HalamLee)>
+    -   **김민호** <[HalamLee](https://github.com/HalamLee)>
         -   블로그 : https://lami.tistory.com/
-    -   **이한결** <[leephoter](http://github.com/leephoter)>
+    -   **홍석환** <[leephoter](http://github.com/leephoter)>
         -   블로그 : http://velog.io/@leephoter
-    -   **정용훈** <[Yonghoon-Jung](https://github.com/Yonghoon-Jung)>
-        -   블로그 : https://dehw.tistory.com/
-    -   **이미나** <[Lee-Mina](https://github.com/Lee-Mina)>
-        -   블로그 : https://blog.naver.com/srs000619
-    -   **이재희** <[leejaehee00](https://github.com/leejaehee00)>
-        -   블로그 : https://blog.naver.com/ee8785
 
 <br>
 
@@ -49,7 +43,7 @@
 6. **알고리즘** : 효율적인 코드를 위한 사고력을 키웁니다.
    sort, dfs-bfs, 완전탐색, 시뮬레이션, 구현 등에 대한 정도로 취업을 위해 필요한 만큼만 다룹니다.
 7. **멘티이자 멘토** : 선배가 동아리를 수료하면, 멘토로서 멘티의 코드를 리뷰해줍니다.
-   즉, 3기가 선발되면 2기가 멘토 역할을 수행하며 1인 2명씩 관리해줍니다.
+   즉, 4기가 선발되면 3기가 멘토 역할을 수행하며 1인 1~2명씩 관리해줍니다.
    실제 개발 경험을 통해 효율적인 코드와 개발 방법들에 대한 노하우를 공유해 줍니다.
    이를 통해 선배는 또 한 번 성장하게 되며, 리더로서 나아갑니다.
    또한 선배와 후배의 유대감을 형성하고, IT를 전문적으로 배우고자하는 학생들의 기대를 충족시켜줄 수 있습니다.
@@ -70,7 +64,7 @@
 1. 주어진 코딩테스트 과제를 수행
 2. 풀이한 코딩 문제를 '파일명.js'로 만든 후 관련 폴더(ex: programmers)에 저장
 3. '파일명.js'를 개인별 Fork한 Repo의 Branch(ex: 각자 이름)로 PUSH
-4. 개인별 깃허브 Repo에 PUSH된 Branch를 [wooahan-agile/coding-test-study-3term](https://github.com/wooahan-agile/coding-test-study-3term)의 개인 Branch(ex: 각자 이름)로 PR을 보냄
+4. 개인별 깃허브 Repo에 PUSH된 Branch를 [modern-agile-team/coding-test-study-4term](https://github.com/modern-agile-team/coding-test-study-4term)의 개인 Branch(ex: 각자 이름)로 PR을 보냄
 5. 리뷰어 각 **멘토**가 도착한 PR을 검토하여 코드 리뷰
 6. 해당 과정을 반복  
    -> 자바스크립트 문법에 적응 & 효율적인 코딩과 컨벤션을 유지할 수 있을 때까지
@@ -78,21 +72,21 @@
 -   아래 과정을 따라하세요❗️
 
 ```
-# 1. 우아한 애자일의 코테 저장소 Fork
+# 1. 모던 애자일의 코테 저장소 Fork
 # 2. 본인의 코테 저장소를 Clone (로컬의 저장소 폴더가 생성된다.)
 
 # 3. 우아한 애자일의 코테 저장소와 동기화 (변경된 내역을 나의 저장소에도 일치시켜주는 작업)
 
 # 먼저 로컬부터 동기화해줘야 한다. (Fork 하기 전의 레포. 즉, 우애 레포의 remote 이름을 "upstream"이라고 해준다.)
 # upstream 추가 -> 통상적으로 upstream이라고 해주는게 원칙이다.
-$ git remote add upstream https://github.com/wooahan-agile/coding-test-study-3term
+$ git remote add upstream https://github.com/modern-agile-team/coding-test-study-4term
 # upstream 레포의 변경 내역을 로컬의 저장소와 병합
 $ git pull upstream master
 
 # 본인이 작업할 브랜치 생성 (ex: git branch 브랜치명)
-$ git branch kimjisu
+$ git branch honggildong
 # 해당 브랜치로 이동 (ex: git checkout 브랜치명)
-$ git checkout kimjisu
+$ git checkout honggildong
 # 로컬의 master와 이동한 브랜치를 병합 (이로써 로컬의 kimjisu 브랜치와 upstream의 master 브랜치가 동기화되었다.)
 $ git merge master
 
@@ -110,14 +104,14 @@ $ cd programmers
 $ git add -a
 
 # 8. ".git" 폴더에 저장 (ex: git commit -m "브랜치명(이름): 메세지") -> "-m"은 message의 약자
-$ git commit -m "kimjisu: 짝수와 홀수 풀이"
+$ git commit -m "honggildong: 짝수와 홀수 풀이"
 
 # 9. 본인이 Fork한 깃헙 저장소에 업로드 (ex: git push <Remote> <Branch>)
-$ git push origin kimjisu
+$ git push origin honggildong
 
 # 10. 본인이 Fork한 깃헙 저장소로 이동하여 Pull Request(PR)를 보낸다.
-# 이때, 우애 저장소의 master 브랜치가 아닌 "본인 이름의 브랜치"로 보내야함을 주의!!!
-# 이후 멘토가 코드를 리뷰한 후 우애 저장소의 본인 브랜치로 병합시켜주는 작업을 하게 된다.
+# 이때, 모던 애자일 저장소의 master 브랜치가 아닌 "본인 이름의 브랜치"로 보내야함을 주의!!!
+# 이후 멘토가 코드를 리뷰한 후 모던 애자일 저장소의 본인 브랜치로 병합시켜주는 작업을 하게 된다.
 ```
 
 <br>
