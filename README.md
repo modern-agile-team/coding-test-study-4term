@@ -13,16 +13,16 @@
 -   팀원 :
     -   **최규철** <[](https://github.com/)>
         -   블로그 : 
-    -   **김현수** <[](http://github.com/)>
-        -   블로그 : 
-    -   **김주하** <[](http://github.com/)>
+    -   **김현수** <[Kimsoo0119](https://github.com/Kimsoo0119)>
+        -   블로그 : https://blog.naver.com/illppang
+    -   **김주하** <[](https://github.com/)>
         -   블로그 : 
     -   **홍유진** <[](https://github.com/)>
         -   블로그 : 
-    -   **김민호** <[](https://github.com/)>
-        -   블로그 : 
-    -   **홍석환** <[](http://github.com/)>
-        -   블로그 : 
+    -   **김민호** <[klaus9267](https://github.com/klaus9267)>
+        -   블로그 : https://velog.io/@klaus9267
+    -   **홍석환** <[hsh519](https://github.com/hsh519)>
+        -   블로그 : https://hsh519.tistory.com
 
 <br>
 
