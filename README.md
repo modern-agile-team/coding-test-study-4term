@@ -11,18 +11,18 @@
 ## 👨🏻‍💻 우아한 코더
 
 -   팀원 :
-    -   **최규철** <[tjdwp0211](https://github.com/tjdwp0211)>
-        -   블로그 : https://blog.naver.com/rlatjdwp0211
-    -   **김현수** <[cheuniss](http://github.com/cheuniss)>
-        -   블로그 : http://songteddybear.tistory.com
-    -   **김주하** <[SuBroooo](http://github.com/SuBroooo)>
-        -   블로그 : https://blog.naver.com/clark9810
-    -   **홍유진** <[SeungBum123](https://github.com/SeungBum123)>
-        -   블로그 : https://blog.naver.com/wer06099
-    -   **김민호** <[HalamLee](https://github.com/HalamLee)>
-        -   블로그 : https://lami.tistory.com/
-    -   **홍석환** <[leephoter](http://github.com/leephoter)>
-        -   블로그 : http://velog.io/@leephoter
+    -   **최규철** <[](https://github.com/)>
+        -   블로그 : 
+    -   **김현수** <[](http://github.com/)>
+        -   블로그 : 
+    -   **김주하** <[](http://github.com/)>
+        -   블로그 : 
+    -   **홍유진** <[](https://github.com/)>
+        -   블로그 : 
+    -   **김민호** <[](https://github.com/)>
+        -   블로그 : 
+    -   **홍석환** <[](http://github.com/)>
+        -   블로그 : 
 
 <br>
 
