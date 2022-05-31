@@ -11,17 +11,17 @@
 ## 👨🏻‍💻 우아한 코더
 
 -   팀원 :
-    -   **최규철** <[](https://github.com/)>
-        -   블로그 : 
-    -   **김현수** <[Kimsoo0119](https://github.com/Kimsoo0119)>
+    -   **최규철** <[Gyucheol](https://github.com/Wocgc)>
+        -   블로그 : https://velog.io/@wocgc
+    -   **김현수** <[KimSoo](https://github.com/Kimsoo0119)>
         -   블로그 : https://blog.naver.com/illppang
-    -   **김주하** <[](https://github.com/)>
-        -   블로그 : 
-    -   **홍유진** <[](https://github.com/)>
-        -   블로그 : 
-    -   **김민호** <[klaus9267](https://github.com/klaus9267)>
+    -   **김주하** <[Juha](https://github.com/khabh)>
+        -   블로그 : https://underchord.tistory.com
+    -   **홍유진** <[ujin](https://github.com/timobyjin02)>
+        -   블로그 : https://timobyjin.tistory.com/
+    -   **김민호** <[minHo](https://github.com/klaus9267)>
         -   블로그 : https://velog.io/@klaus9267
-    -   **홍석환** <[hsh519](https://github.com/hsh519)>
+    -   **홍석환** <[seokHwan](https://github.com/hsh519)>
         -   블로그 : https://hsh519.tistory.com
 
 <br>
