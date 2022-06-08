@@ -1,4 +1,5 @@
-/*
-파일명은 문제 제목에 맞게 수정해서 사용하세요.(한글o)
-주석은 삭제해도 됩니다.
-*/
+function solution(num) {
+    var answer = '';
+    (num % 2 == 0 ? answer = 'Even':answer = 'Odd')
+    return answer;
+}
