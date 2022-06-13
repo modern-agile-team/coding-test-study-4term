@@ -10,3 +10,5 @@ function solution(s){
     
     return P == Y ? true : false;
 }
+
+console.log(solution("pyy"));
