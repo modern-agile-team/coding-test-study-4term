@@ -1,5 +1,3 @@
-/** @format */
-
 function solution(board, moves) {
     let selected = [];
     let score = 0;
