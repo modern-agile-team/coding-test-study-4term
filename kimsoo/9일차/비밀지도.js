@@ -2,7 +2,6 @@
 //padStart(maxlength, ?fillString) 앞에 특정한 문자열로 채우는 기능 length보다 작으면 fillString으로 length만큼 채움
 
 function solution(n, arr1, arr2) {
-    
     const arr2String = [];
     const arr1String = [];
     const answer = [];
